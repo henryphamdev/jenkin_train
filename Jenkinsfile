@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Step 03') {
             steps {
-                echo 'Hello World'
+                echo 'How to run jenkin yaml'
             }
         }
     }
